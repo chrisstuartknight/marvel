@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpunit/phpunit": "4.3.5",
+        "shuber/curl": "dev-master",
+        "datasift/datasift-php": "dev-master"
+    }
+}
